@@ -1,0 +1,7 @@
+Just a small application that launches TGD.exe and autosaves projects every 20 seconds - nothing more annoying that working on
+a project and it crashes!
+
+Autosave can be turned on or off via the notification tray icon.
+
+When you first launch the program it will ask you to browse the TGD.exe, it then stores this in the registry for use next time it
+launches.
