@@ -1,0 +1,9 @@
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\bin\Debug\TerragenAutoSave.exe.config
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\bin\Debug\TerragenAutoSave.exe
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\bin\Debug\TerragenAutoSave.pdb
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.Form1.resources
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.Properties.Resources.resources
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.csproj.GenerateResource.Cache
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.exe
+e:\documents\visual studio 2017\Projects\TerragenAutoSave\TerragenAutoSave\obj\Debug\TerragenAutoSave.pdb
